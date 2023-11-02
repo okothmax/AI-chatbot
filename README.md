@@ -18,3 +18,22 @@
     `Mongodb cloud account`
 
 ### Step 3
+`Run the secrets generation script`
+        `$ cd backend`
+        `$ pythin3 secrets.py`
+
+`Copy the two generated randoms to the .env file and replace accrodingly`
+`Replace the other keys from the accounts created ealier in step 1 and have port number as 5000`
+
+### Step 4
+`Run the following commands `
+        `$ npm i`
+        `$ npm run dev`
+        `$ cd ..`
+        `$ cd frontend`
+        `$ npm i `
+        `$ nom run dev`
+
+### Step 5 
+`Copy the link and open the link in your browser`
+`Create an account and enjoy ![Alt text](image.png)`
